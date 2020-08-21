@@ -1,0 +1,17 @@
+{
+    "name": "UniOnlyOneInSceneAttribute.Editor",
+    "references": [
+        "GUID:1397f9d39a8c39f4ead36d447fbf76fd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
