@@ -60,7 +60,7 @@ namespace Kogane.Internal
 		[SettingsProvider]
 		private static SettingsProvider Create()
 		{
-			var path     = "Preferences/UniOnlyOneInSceneChecker";
+			var path     = "Kogane/UniOnlyOneInSceneChecker";
 			var provider = new OnlyOneInSceneCheckerSettingsProvider( path, SettingsScope.User );
 
 			return provider;
